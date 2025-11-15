@@ -161,6 +161,3 @@ If you like this project, please ⭐ star the repository!
 * **Author:** Gowtham G. S. Patil
 * **GitHub:** [gowthamgspatil](https://github.com/gowthamgspatil)
 * **Gmail:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
-
-
-If you'd like, I can also add **badges**, **license section**, or a **project screenshot** to make it even more professional.
